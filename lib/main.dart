@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         fontFamily: GoogleFonts.poppins().fontFamily,
       ),
-      home: const HomePage(),
+      home: HomePage(),
     );
   }
 }
